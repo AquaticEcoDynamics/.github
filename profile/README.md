@@ -41,7 +41,7 @@ flowchart LR
 |---|---|---|---|
 | **GLM-AED** | [GLM](https://github.com/AquaticEcoDynamics/GLM) (1D) | Lakes, reservoirs, ponds, wetlands | [`glm-aed`](https://github.com/AquaticEcoDynamics/glm-aed) |
 | **FV-AED** | [TUFLOW-FV](https://www.tuflow.com/products/tuflow-fv/) (3D finite volume) | Estuaries, coasts, rivers, floodplains | [`fv-aed`](https://github.com/AquaticEcoDynamics/fv-aed) |
-| **ELCOM-AED** | ELCOM (3D structured) | Stratified lakes, reservoirs and coasts | `elcom-aed` — see the [ELCOM manual](https://github.com/AquaticEcoDynamics/elcom-manual) |
+| **ELCOM-AED** | ELCOM (3D structured) | Stratified lakes, reservoirs and coasts | `elcom-aed` |
 | **SCHISM-AED** | [SCHISM](https://github.com/schism-dev/schism) (3D unstructured) | Cross-scale river–estuary–ocean systems | `schism-aed` |
 
 The AED code is primarily developed at the [University of Western Australia](https://www.uwa.edu.au) with contributions from a global community of researchers and practitioners. The code is released under GPL-3.0 unless noted otherwise.
