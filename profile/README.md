@@ -12,7 +12,7 @@
 
 ---
 
-We are the Aquatic EcoDynamics research group at The University of Western Australia. This organisation hosts the **AED model** — a modular library for simulating water quality and aquatic ecosystem dynamics — together with its couplings to hydrodynamic host models, the **AED Toolkit** of supporting software, and repositories from our research and application projects. The AED code is supported by contributions from a global community of researchers and practitioners. The code is released under GPL-3.0 unless noted otherwise.
+This is a page for the Aquatic EcoDynamics research group and associated collaboration network. The organisation hosts the **AED model** — a modular library for simulating water quality and aquatic ecosystem dynamics — together with its couplings to hydrodynamic host models, the **AED Toolkit** of supporting software, and repositories from our research and application projects. The AED code is led by researchers at The University of Western Australia and supported by contributions from a global community of researchers and practitioners. The code is released under GPL-3.0 unless noted otherwise.
 
 Alongside the model suite, this organisation hosts repositories from our research projects — estuary and lake studies, teaching materials, dashboards and site-specific model applications. These are working repositories and vary in maturity; the maintained entry points for the models are the repositories listed above.
 
