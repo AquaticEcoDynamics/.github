@@ -24,19 +24,21 @@ flowchart LR
     A["libaed-api<br/>host-model interface"]
     W["libaed-water<br/>water column modules"]
     B["libaed-benthic<br/>benthic modules"]
+    L["libaed-light<br/>light modules"]
+    X["libaed-demo<br/>example modules"]
     R["libaed-riparian<br/>riparian modules"]
     D["libaed-dev<br/>modules in development"]
-    X["libaed-demo<br/>example modules"]
   end
   GLM["GLM<br/>1D lakes & reservoirs"] --- A
-  FV["TUFLOW-FV<br/>3D estuaries & coasts"] --- A
   ELCOM["ELCOM<br/>3D lakes & reservoirs"] --- A
   SCHISM["SCHISM<br/>3D cross-scale coastal"] --- A
+  FV["TUFLOW-FV<br/>3D estuaries & coasts"] --- A
   A --- W
   W --- B
+  W --- L
+  W --- X
   W --- R
   W --- D
-  W --- X
 ```
 
 A summary of the main models are listed below 
